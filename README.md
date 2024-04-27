@@ -10,3 +10,4 @@ Currently, two official plugins are available:
 # GeminiClone
 # GEMINI_CLONE
 # GEMINI_CLONE
+# GEMINI_CLONE
